@@ -79,3 +79,19 @@ Conducted detailed exploration to identify user segments that responded differen
 Discovered insightful patterns based on factors like user activity, demographics, and past interactions, enabling more targeted and personalized campaigns.
 # Outcome
 By leveraging data analysis and machine learning, this project demonstrates a clear path to optimize email marketing strategies, leading to higher engagement and better resource allocation.
+Finaaly I have chosen Model 1 beacuse of the following reasons :
+
+Much Higher Recall & F1-Score for the clicked class
+→ Captures nearly all potential clickers (99%) with strong balance between precision and recall.
+
+Superior AUC and Accuracy
+→ Model 5 distinguishes clicked from non-clicked users almost perfectly (ROC AUC: 0.993).
+
+Richer Feature Engineering
+→ Includes interaction features and SHAP-driven pruning, while Model 6 uses only flat one-hot encoding.
+
+No Threshold Tweaking Needed
+→ Model 5 performs well with standard 0.5 threshold, whereas Model 6 needs manual threshold optimization.
+
+More Generalizable
+→ Performs strongly out-of-the-box and is better suited for production deployment with less tuning overhead.
