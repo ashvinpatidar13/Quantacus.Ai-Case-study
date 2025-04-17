@@ -79,7 +79,7 @@ Conducted detailed exploration to identify user segments that responded differen
 Discovered insightful patterns based on factors like user activity, demographics, and past interactions, enabling more targeted and personalized campaigns.
 # Outcome
 By leveraging data analysis and machine learning, this project demonstrates a clear path to optimize email marketing strategies, leading to higher engagement and better resource allocation.
-Finaaly I have chosen Model 1 beacuse of the following reasons :
+Finally I have chosen Model 1 beacuse of the following reasons :
 
 Much Higher Recall & F1-Score for the clicked class
 → Captures nearly all potential clickers (99%) with strong balance between precision and recall.
