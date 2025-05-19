@@ -1,4 +1,4 @@
-# Quantacus.Ai-Case-study
+# Email click prediction
 # Case Description
 The marketing team of an e-commerce site launched an email campaign targeting a random sample of registered users. The email introduced a new feature and included a link redirecting users to the website. A successful outcome, from the marketing perspective, is defined as a user clicking on that link.
 
